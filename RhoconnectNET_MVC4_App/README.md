@@ -1,6 +1,5 @@
-ContactsBackend
 RhoconnectNET_MVC4_App Sample
-===============
+===
 
 Sample of complete ASP.NET MVC4 Contact back-end application.
  
